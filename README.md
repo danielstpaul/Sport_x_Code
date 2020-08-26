@@ -1,2 +1,2 @@
-# Sport_x_Code
-Resource Hub for everything Sports and Code
+## [Sport x Code](https://sportsdatasolutions.academy)
+> Resource Hub for everything Sports and Code
